@@ -236,6 +236,22 @@ section p {
     align-items: center;
     justify-content: center;
 }
+.whatsapp-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #25D366;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 30px;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+        }
+
+        .whatsapp-btn:hover {
+            opacity: 0.9;
+        }
 
 /* Contact + footer */
 .contact {
